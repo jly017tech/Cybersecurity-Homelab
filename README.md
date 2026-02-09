@@ -1,4 +1,15 @@
-<h1>Cybersecurity Homelab</h1>
+<h1>Enterprise 101 - Attack & Defense</h1>
+
+
+
+
+<h1>Changing IP addresses for NetNat</h1>
+
+<img width="845" height="703" alt="image" src="https://github.com/user-attachments/assets/c81473d8-baa8-4402-9d4c-ff49352e7418" />
+
+
+
+
 
 
 ---
