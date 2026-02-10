@@ -6,6 +6,18 @@
 </p>
 
 
+<h2>List of virtual machines</h2>
+<ul>
+    <li>[project-x-dc]</li>
+    <li>[project-x-win-client]</li>
+    <li>[project-x-linux-client]</li>
+    <li>[project-x-sec-work]</li>
+    <li>[project-x-sec-box]</li>
+    <li>[project-x-corp-svr]</li>
+    <li>[project-x-attacker]</li>
+    
+</ul>
+
 <h1>Changing IP addresses for NetNat</h1>
 
 
