@@ -1,9 +1,13 @@
 <h1>Enterprise 101 - Attack & Defense</h1>
 
-
+<h1>Introduction</h1>
+<p>
+    In th Enterprise Attack & Defense lab, I showed step by step and pictures I did demonstrating my skills in Attack & Defense. I use Windows 11 Enterprise and Windows Server 2025, Ubuntu Server, Ubuntu Desktop, SecurityOnion, and Kali-Linux.
+</p>
 
 
 <h1>Changing IP addresses for NetNat</h1>
+
 
 <img width="845" height="703" alt="image" src="https://github.com/user-attachments/assets/c81473d8-baa8-4402-9d4c-ff49352e7418" />
 
