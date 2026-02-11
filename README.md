@@ -18,8 +18,9 @@
     
 </ul>
 
-<h1>Changing IP addresses for NetNat</h1>
+<h1>Nat Networks setting up</h1>
 
+<p>Before I install and create virtual machines, I create Nat Networks in the Network adapter so all the virtual machines can communicate each in the same node, for example, project-x-nat and connect to the internet. </p>
 
 <img width="845" height="703" alt="image" src="https://github.com/user-attachments/assets/c81473d8-baa8-4402-9d4c-ff49352e7418" />
 
