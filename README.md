@@ -8,13 +8,13 @@
 
 <h2>List of virtual machines</h2>
 <ul>
-    <li>[project-x-dc]</li>
-    <li>[project-x-win-client]</li>
-    <li>[project-x-linux-client]</li>
-    <li>[project-x-sec-work]</li>
-    <li>[project-x-sec-box]</li>
-    <li>[project-x-corp-svr]</li>
-    <li>[project-x-attacker]</li>
+    <li>[project-x-dc]: Windows Server 2025</li>
+    <li>[project-x-win-client]: Windows 11 Enterprise</li>
+    <li>[project-x-linux-client]: Ubuntu Desktop</li>
+    <li>[project-x-sec-work]: Security Onion</li>
+    <li>[project-x-sec-box]: Ubuntu Desktop</li>
+    <li>[project-x-corp-svr]: Ubuntu Server</li>
+    <li>[project-x-attacker]: Kali Linux</li>
     
 </ul>
 
