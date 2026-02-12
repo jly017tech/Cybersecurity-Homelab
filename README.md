@@ -15,7 +15,6 @@
     <li>[project-x-sec-box]: Ubuntu Desktop</li>
     <li>[project-x-corp-svr]: Ubuntu Server</li>
     <li>[project-x-attacker]: Kali Linux</li>
-    
 </ul>
 
 <h1>Nat Networks setting up</h1>
@@ -23,6 +22,13 @@
 <p>Before I install and create virtual machines, I create Nat Networks in the Network adapter so all the virtual machines can communicate each in the same node, for example, project-x-nat and connect to the internet. </p>
 
 <img width="845" height="703" alt="image" src="https://github.com/user-attachments/assets/c81473d8-baa8-4402-9d4c-ff49352e7418" />
+
+
+<h1>Setting up Ubuntu Desktop & Ubuntu Server</h1>
+<p>
+    After completing Windows 2025 Server and Windows 11 Enterprise, I create two Linux Distros: Ubuntu Desktop and Ubuntu 
+    Server. I clone Ubuntu Desktop [project-x-linux-client] as a template twice for Corporate server and Security box.
+</p>
 
 
 <h1>Build an Enterprise Network</h1>
