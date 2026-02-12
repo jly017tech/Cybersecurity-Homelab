@@ -17,9 +17,10 @@
     <li>[project-x-attacker]: Kali Linux</li>
 </ul>
 
-<h1>Nat Networks setting up</h1>
+<h1>Prerequisite </h1>
 
-<p>Before I install and create virtual machines, I create Nat Networks in the Network adapter so all the virtual machines can communicate each in the same node, for example, project-x-nat and connect to the internet. </p>
+<p> I took a course run by Collin Grant and I learned so much hands-on experience in cybersecurity. I use oracle virtualbox, downloaded 6 ISO files, and change Network adapter to NAT Network.
+    Before I install and create virtual machines, I create Nat Networks in the Network adapter so all the virtual machines can communicate each in the same node, for example, project-x-nat and connect to the internet. </p>
 
 <img width="845" height="703" alt="image" src="https://github.com/user-attachments/assets/c81473d8-baa8-4402-9d4c-ff49352e7418" />
 
