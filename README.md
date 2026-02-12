@@ -2,7 +2,7 @@
 
 <h1>Introduction</h1>
 <p>
-    In th Enterprise Attack & Defense lab, I showed step by step and pictures I did demonstrating my skills in Attack & Defense. I use Windows 11 Enterprise and Windows Server 2025, Ubuntu Server, Ubuntu Desktop, SecurityOnion, and Kali-Linux.
+    In th Enterprise Attack & Defense lab, I showed step by step and pictures I did demonstrating my skills in Attack & Defense. I use Windows 11 Enterprise and Windows Server 2025, Ubuntu Server, Ubuntu Desktop, SecurityOnion, and Kali-Linux. This lab took me  2-3 days complete this Enterprise 101 made by Collin Grant. I have so much fun learning hands on experience and add so many commands in terminal while watching and taking notes.
 </p>
 
 
@@ -29,6 +29,9 @@
     After completing Windows 2025 Server and Windows 11 Enterprise, I create two Linux Distros: Ubuntu Desktop and Ubuntu 
     Server. I clone Ubuntu Desktop [project-x-linux-client] as a template twice for Corporate server and Security box.
 </p>
+
+
+
 
 
 <h1>Build an Enterprise Network</h1>
