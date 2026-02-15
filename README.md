@@ -1,3 +1,4 @@
+
 ---
 Enterprise 101: Attack & Defense lab:
     title: 'Enterprise 101: Attack & Defense lab'
