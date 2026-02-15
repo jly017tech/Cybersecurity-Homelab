@@ -2,7 +2,7 @@
 
 <h1>Introduction</h1>
 <p>
-    In th Enterprise Attack & Defense lab, I showed step by step and pictures I did demonstrating my skills in Attack & Defense. I use Windows 11 Enterprise and Windows Server 2025, Ubuntu Server, Ubuntu Desktop, SecurityOnion, and Kali-Linux. This lab took me  2-3 days complete this Enterprise 101 made by Collin Grant. I have so much fun learning hands on experience and add so many commands in terminal while watching and taking notes.
+    In the Enterprise Attack & Defense lab, I demonstrate my skill in attacking and defending in the real world cybersecurity scenario and write every steps from lesson I'm learning the course taught by Collins Grant. 
 </p>
 
 
