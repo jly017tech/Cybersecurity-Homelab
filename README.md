@@ -46,7 +46,7 @@ Enterprise 101: Attack & Defense lab:
 
 
 
-<h1>Build an Enterprise Network</h1>
+<h1>Cyberattack Scenario #1</h1>
 
 
 
