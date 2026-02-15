@@ -1,4 +1,8 @@
-<h1>Enterprise 101 - Attack & Defense</h1>
+---
+Enterprise 101: Attack & Defense lab:
+    title: 'Enterprise 101: Attack & Defense lab'
+---
+
 
 <h1>Introduction</h1>
 <p>
@@ -19,8 +23,7 @@
 
 <h1>Prerequisite </h1>
 
-<p> I took a course run by Collin Grant and I learned so much hands-on experience in cybersecurity. I use oracle virtualbox, downloaded 6 ISO files, and change Network adapter to NAT Network.
-    Before I install and create virtual machines, I create Nat Networks in the Network adapter so all the virtual machines can communicate each in the same node, for example, project-x-nat and connect to the internet. </p>
+<p> I took a course run by Collin Grant and I learned so much hands-on experience in cybersecurity. I use oracle virtualbox, downloaded 6 ISO files, and change Network adapter to NAT Network. Before I install and create virtual machines, I create Nat Networks in the Network adapter so all the virtual machines can communicate each in the same node, for example, project-x-nat and connect to the internet. </p>
 
 <img width="845" height="703" alt="image" src="https://github.com/user-attachments/assets/c81473d8-baa8-4402-9d4c-ff49352e7418" />
 
@@ -36,6 +39,7 @@
 
 
 <h1>Build an Enterprise Network</h1>
+
 
 
 
