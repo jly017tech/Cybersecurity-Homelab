@@ -1,7 +1,6 @@
 
 ---
 Enterprise 101: Attack & Defense lab:
-    title: 'Enterprise 101: Attack & Defense lab'
 ---
 
 
@@ -29,11 +28,19 @@ Enterprise 101: Attack & Defense lab:
 <img width="845" height="703" alt="image" src="https://github.com/user-attachments/assets/c81473d8-baa8-4402-9d4c-ff49352e7418" />
 
 
+<h1>Setting up Windows Server 2025 and Windows 11 Enterprise</h1>
+<p>
+    I created two different virtual machines: Windows Server 2025 and Windows 11 Enterprise. Windows Server 2025 is a domain controller where it handles Computers and Users in the Active Directory and Windows 11 Enterprise handle Windows 11 clients.
+</p>
+
 <h1>Setting up Ubuntu Desktop & Ubuntu Server</h1>
 <p>
     After completing Windows 2025 Server and Windows 11 Enterprise, I create two Linux Distros: Ubuntu Desktop and Ubuntu 
     Server. I clone Ubuntu Desktop [project-x-linux-client] as a template twice for Corporate server and Security box.
 </p>
+
+
+
 
 
 
