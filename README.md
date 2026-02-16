@@ -2,7 +2,7 @@
 ---
 Enterprise 101: Attack & Defense lab:
 ---
-
+ 
 
 <h1>Introduction</h1>
 <p>
