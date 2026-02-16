@@ -48,8 +48,10 @@ Enterprise 101: Attack & Defense lab:
 
 <h1>Cyberattack Scenario #1</h1>
 
+<h2>Filed Accessed Monitor #3</h2>
 
-
+<p>I create the third monitor that handles a file in the event where a user access a sensitive and modifed changes will generate
+an alert to the Wazuh event.</p>
 
 
 ---
