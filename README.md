@@ -41,9 +41,6 @@ Enterprise 101: Attack & Defense lab:
 
 
 
-<h2>Added Ubuntu Client to HuskyTech.Local Domain</h2>
-
-<img width="1603" height="862" alt="image" src="https://github.com/user-attachments/assets/9fa2c58a-bd56-4139-b11a-ae6fe831cb99" />
 
 
 <p></p>
