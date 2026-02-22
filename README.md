@@ -23,17 +23,18 @@ Enterprise 101: Attack & Defense lab:
 
 <h1>Prerequisite </h1>
 
-<p> I took a course run by Collin Grant and I learned so much hands-on experience in cybersecurity. I use oracle virtualbox, downloaded 6 ISO files, and change Network adapter to NAT Network. Before I install and create virtual machines, I create Nat Networks in the Network adapter so all the virtual machines can communicate each in the same node, for example, project-x-nat and connect to the internet. </p>
+<p> I use oracle virtualbox, downloaded 6 ISO files, and change Network adapter to NAT Network. Before I install and create virtual machines, I create Nat Networks in the Network adapter so all the virtual machines can communicate each in the same node, for example, project-x-nat and connect to the internet. </p>
 
 <img width="845" height="703" alt="image" src="https://github.com/user-attachments/assets/c81473d8-baa8-4402-9d4c-ff49352e7418" />
 
+<h2>Step 1: Setting up Windows Server 2025 and Windows 11 Enterprise<</h2>
 
-<h1>Setting up Windows Server 2025 and Windows 11 Enterprise</h1>
 <p>
     I created two different virtual machines: Windows Server 2025 and Windows 11 Enterprise. Windows Server 2025 is a domain controller where it handles Computers and Users in the Active Directory and Windows 11 Enterprise handle Windows 11 clients.
 </p>
 
-<h1>Setting up Ubuntu Desktop & Ubuntu Server</h1>
+<h2>Step 3:Setting up Ubuntu Desktop & Ubuntu Server </h2>
+<h1></h1>
 <p>
     After completing Windows 2025 Server and Windows 11 Enterprise, I create two Linux Distros: Ubuntu Desktop and Ubuntu 
     Server. I clone Ubuntu Desktop [project-x-linux-client] as a template twice for Corporate server and Security box.
@@ -41,17 +42,19 @@ Enterprise 101: Attack & Defense lab:
 
 
 
+<h2>Step 4</h2>
+
 
 
 <p></p>
 
 
 
-<h1>Cyberattack Scenario #1: vulerabilities</h1>
+<h2>Creating alerts in Wazuh SIEM Dashboard</h2>
+<img width="1622" height="835" alt="Screenshot from 2026-02-15 13-27-45" src="https://github.com/user-attachments/assets/cf4d2e3e-9662-4316-b60c-19b24a42dcaf" />
 
 
 
-<h2>Filed Accessed Monitor #3</h2>
 
 <p>I create the third monitor that handles a file in the event where a user access a sensitive and modifed changes will generate
 an alert to the Wazuh event.</p>
