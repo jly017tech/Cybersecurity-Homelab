@@ -26,7 +26,10 @@ Enterprise 101: Attack & Defense lab:
 
 <p> I use oracle virtualbox, downloaded 6 ISO files, and change Network adapter to NAT Network. Before I install and create virtual machines, I open Oracle Virtualbox and create Nat Networks name [project-x-NAT], so when this is selected for all the virutal machines will communicate each this IP address, for example, 192.0.0.0 while connecting to the internet.</p>
 
+<br>
+
 <img width="845" height="703" alt="image" src="https://github.com/user-attachments/assets/c81473d8-baa8-4402-9d4c-ff49352e7418" />
+
 
 <h2>Step 1: Setting up Windows Server 2025 and Windows 11 Enterprise<</h2>
 
@@ -34,7 +37,14 @@ Enterprise 101: Attack & Defense lab:
     I created two different virtual machines: Windows Server 2025 and Windows 11 Enterprise. Windows Server 2025 is a domain controller where it handles Computers and Users in the Active Directory and Windows 11 Enterprise handle Windows 11 clients.
 </p>
 
+<br>
+
+<img width="1620" height="855" alt="Screenshot from 2026-02-15 13-48-43" src="https://github.com/user-attachments/assets/bc9454cd-bae3-4fec-ae5d-e6d9fd8c13c7" />
+
+<br>
+
 <h2>Step 3:Setting up Ubuntu Desktop & Ubuntu Server </h2>
+
 <p>
     After completing Windows 2025 Server and Windows 11 Enterprise, I create two Linux Distros: Ubuntu Desktop and Ubuntu 
     Server. I clone Ubuntu Desktop [project-x-linux-client] as a template twice for Corporate server and Security box.
