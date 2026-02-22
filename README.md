@@ -24,11 +24,15 @@ Enterprise 101: Attack & Defense lab:
 
 <h1>Prerequisite </h1>
 
+<img width="845" height="703" alt="image" src="https://github.com/user-attachments/assets/c81473d8-baa8-4402-9d4c-ff49352e7418" />
+
 <p> I use oracle virtualbox, downloaded 6 ISO files, and change Network adapter to NAT Network. Before I install and create virtual machines, I open Oracle Virtualbox and create Nat Networks name [project-x-NAT], so when this is selected for all the virutal machines will communicate each this IP address, for example, 192.0.0.0 while connecting to the internet.</p>
 
 <br>
 
-<img width="845" height="703" alt="image" src="https://github.com/user-attachments/assets/c81473d8-baa8-4402-9d4c-ff49352e7418" />
+
+<img width="1020" height="829" alt="Screenshot from 2026-02-13 10-33-19" src="https://github.com/user-attachments/assets/03dbd634-ee05-48cb-92a2-9025aa42a7e9" />
+
 
 
 <h2>Step 1: Setting up Windows Server 2025 and Windows 11 Enterprise<</h2>
@@ -39,11 +43,12 @@ Enterprise 101: Attack & Defense lab:
 
 <br>
 
-<img width="1620" height="855" alt="Screenshot from 2026-02-15 13-48-43" src="https://github.com/user-attachments/assets/bc9454cd-bae3-4fec-ae5d-e6d9fd8c13c7" />
 
 <br>
 
-<h2>Step 3:Setting up Ubuntu Desktop & Ubuntu Server </h2>
+<img width="1620" height="855" alt="Screenshot from 2026-02-15 13-48-43" src="https://github.com/user-attachments/assets/bc9454cd-bae3-4fec-ae5d-e6d9fd8c13c7" />
+
+<h2>Step 2: Setting up Ubuntu Desktop & Ubuntu Server </h2>
 
 <p>
     After completing Windows 2025 Server and Windows 11 Enterprise, I create two Linux Distros: Ubuntu Desktop and Ubuntu 
@@ -52,7 +57,7 @@ Enterprise 101: Attack & Defense lab:
 
 
 
-<h2>Step 4:Creating alerts in Wazuh SIEM Dashboard</h2>
+<h2>Step 3: Creating alerts in Wazuh SIEM Dashboard</h2>
 
 
 <img width="1622" height="835" alt="Screenshot from 2026-02-15 13-27-45" src="https://github.com/user-attachments/assets/cf4d2e3e-9662-4316-b60c-19b24a42dcaf" />
