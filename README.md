@@ -23,7 +23,7 @@ Enterprise 101: Attack & Defense lab:
 
 <h1>Prerequisite </h1>
 
-<p> I use oracle virtualbox, downloaded 6 ISO files, and change Network adapter to NAT Network. Before I install and create virtual machines, I create Nat Networks in the Network adapter so all the virtual machines can communicate each in the same node, for example, project-x-nat and connect to the internet. </p>
+<p> I use oracle virtualbox, downloaded 6 ISO files, and change Network adapter to NAT Network. Before I install and create virtual machines, I open Oracle Virtualbox and create Nat Networks name [project-x-NAT], so when this is selected for all the virutal machines will communicate each this IP address, for example, 192.0.0.0 while connecting to the internet.</p>
 
 <img width="845" height="703" alt="image" src="https://github.com/user-attachments/assets/c81473d8-baa8-4402-9d4c-ff49352e7418" />
 
