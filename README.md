@@ -42,15 +42,13 @@ Enterprise 101: Attack & Defense lab:
 
 
 
-<h2>Step 4</h2>
+<h2>Step 4:Creating alerts in Wazuh SIEM Dashboard</h2>
 
 
 
-<p></p>
 
 
-
-<h2>Creating alerts in Wazuh SIEM Dashboard</h2>
+<h2></h2>
 <img width="1622" height="835" alt="Screenshot from 2026-02-15 13-27-45" src="https://github.com/user-attachments/assets/cf4d2e3e-9662-4316-b60c-19b24a42dcaf" />
 
 
