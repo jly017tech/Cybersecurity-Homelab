@@ -1,6 +1,6 @@
 
 ---
-Enterprise 101: Attack & Defense lab:
+HuskyTechSupport Enterprise Cybersecurity
 ---
  
 
