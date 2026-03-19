@@ -6,10 +6,6 @@ HuskyTechSupport Enterprise Cybersecurity
 
 ## Introduction
 
-<p>
-    In the Enterprise Attack & Defense lab, I demonstrate my skill in attacking and defending in the real world cybersecurity scenario and write every steps from lesson I'm learning the course taught by Collins Grant. 
-</p>
-
 
 <h2>List of virtual machines</h2>
 <ul>
