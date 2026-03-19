@@ -69,6 +69,7 @@ HuskyTechSupport Enterprise Cybersecurity
 <h2>Step 4: </h2>
 <img width="780" height="782" alt="Screenshot from 2026-02-11 23-23-06" src="https://github.com/user-attachments/assets/6186de8e-6c92-48e8-a9db-0bcc949580ec" />
 
+<br>
 
 <h2></h2>
 
