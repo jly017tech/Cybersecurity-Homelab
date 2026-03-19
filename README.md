@@ -78,7 +78,7 @@ tested connectivity between virtual machines to confirm everything was properly 
 <img width="1622" height="835" alt="Screenshot from 2026-02-15 13-27-45" src="https://github.com/user-attachments/assets/cf4d2e3e-9662-4316-b60c-19b24a42dcaf" />
 
 
-
+<br>
 
 <p>In this step, we configure a dedicated monitor to track unauthorized access and modifications to high-value assets. By leveraging the Wazuh syscheck module, we monitor specific sensitive file paths—such as configuration files, password databases, or proprietary data folders—in real-time. When a user interacts with these files, the Wazuh agent captures the event metadata, including the user identity, the process used, and the specific nature of the change (such as a checksum mismatch or attribute shift). This data is then cross-referenced against the Wazuh rule engine; if a modification is detected, the system triggers a high-severity alert on the dashboard, providing security analysts with the "who, what, and when" necessary for a rapid incident response.</p>
 
