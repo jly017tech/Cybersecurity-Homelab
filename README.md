@@ -6,6 +6,10 @@ HuskyTechSupport Enterprise Cybersecurity
 
 ## Introduction
 
+<p> I use oracle virtualbox, downloaded 6 ISO files, and change Network adapter to NAT Network. Before I install and create virtual machines, I open Oracle Virtualbox and create Nat Networks name [project-x-NAT], so when this is selected for all the virutal machines will communicate each this IP address, for example, 192.0.0.0 while connecting to the internet.</p>
+
+<br>
+
 
 <h2>List of virtual machines</h2>
 <ul>
@@ -21,10 +25,6 @@ HuskyTechSupport Enterprise Cybersecurity
 <h1>Prerequisite </h1>
 
 <img width="845" height="703" alt="image" src="https://github.com/user-attachments/assets/c81473d8-baa8-4402-9d4c-ff49352e7418" />
-
-<p> I use oracle virtualbox, downloaded 6 ISO files, and change Network adapter to NAT Network. Before I install and create virtual machines, I open Oracle Virtualbox and create Nat Networks name [project-x-NAT], so when this is selected for all the virutal machines will communicate each this IP address, for example, 192.0.0.0 while connecting to the internet.</p>
-
-<br>
 
 
 <h2>Step 1: Setting up Windows Server 2025 and Windows 11 Enterprise</h2>
@@ -65,13 +65,39 @@ HuskyTechSupport Enterprise Cybersecurity
 <br>
 
 
-<h2>Step 4: </h2>
+<h2>Step 4: Installing Linux Onion Security </h2>
 <img width="780" height="782" alt="Screenshot from 2026-02-11 23-23-06" src="https://github.com/user-attachments/assets/6186de8e-6c92-48e8-a9db-0bcc949580ec" />
 
 <br>
 
-<h2></h2>
+
+<h2>Step 5: Setting up Email Server on Ubuntu</h2>
 
 <img width="957" height="835" alt="Screenshot from 2026-02-15 13-59-49" src="https://github.com/user-attachments/assets/cf406585-5ecc-473e-a9e9-65bbcfc457ae" />
 
+<p>
+In this step, I set up a functional email server on an Ubuntu system as part of my homelab environment. 
+I installed and configured key services such as Postfix for handling outgoing mail (SMTP) and Dovecot 
+for managing incoming mail (IMAP/POP3). I also worked on configuring domain and DNS records like MX, SPF, 
+and DKIM to ensure proper email delivery and reduce the chances of emails being marked as spam. 
+To improve security, I implemented SSL/TLS encryption and configured basic firewall rules. 
+This setup allowed me to better understand how email systems operate in real-world environments 
+and gave me hands-on experience with server configuration and troubleshooting.
+</p>
 
+
+<h2>Data Exfiltration</h2>
+
+<img width="1355" height="954" alt="Screenshot from 2026-03-18 19-20-59" src="https://github.com/user-attachments/assets/33aa99bd-4761-4e65-98f7-de5235425f38" />
+
+<p>
+Data exfiltration refers to the unauthorized transfer of sensitive information from a system, network, or device. 
+In my understanding and practice, this can happen through various methods such as malware, phishing attacks, 
+misconfigured systems, or even insider threats. Attackers may attempt to move data out of an environment using 
+protocols like HTTP, FTP, DNS tunneling, or encrypted channels to avoid detection. 
+
+From a security perspective, I focus on identifying and preventing data exfiltration by implementing monitoring 
+tools, reviewing logs, and applying security controls such as data loss prevention (DLP), encryption, and strict 
+access management. Understanding how data exfiltration works has helped me better recognize suspicious activity 
+and strengthen overall system security in both real-world scenarios and my homelab environment.
+</p>
