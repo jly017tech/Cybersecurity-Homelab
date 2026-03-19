@@ -27,11 +27,10 @@ HuskyTechSupport Enterprise Cybersecurity
 <br>
 
 
+<h2>Step 1: Setting up Windows Server 2025 and Windows 11 Enterprise</h2>
 <img width="1020" height="829" alt="Screenshot from 2026-02-13 10-33-19" src="https://github.com/user-attachments/assets/03dbd634-ee05-48cb-92a2-9025aa42a7e9" />
 
 
-
-<h2>Step 1: Setting up Windows Server 2025 and Windows 11 Enterprise</h2>
 
 <p>
     I created two different virtual machines: Windows Server 2025 and Windows 11 Enterprise. Windows Server 2025 is a domain controller where it handles Computers and Users in the Active Directory and Windows 11 Enterprise handle Windows 11 clients.
@@ -42,9 +41,9 @@ HuskyTechSupport Enterprise Cybersecurity
 
 <br>
 
+<h2>Step 2: Setting up Ubuntu Desktop & Ubuntu Server </h2>
 <img width="1620" height="855" alt="Screenshot from 2026-02-15 13-48-43" src="https://github.com/user-attachments/assets/bc9454cd-bae3-4fec-ae5d-e6d9fd8c13c7" />
 
-<h2>Step 2: Setting up Ubuntu Desktop & Ubuntu Server </h2>
 
 <p>
     After completing Windows 2025 Server and Windows 11 Enterprise, I create two Linux Distros: Ubuntu Desktop and Ubuntu 
