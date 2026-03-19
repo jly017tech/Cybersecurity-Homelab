@@ -110,7 +110,7 @@ and gave me hands-on experience with server configuration and troubleshooting.
 </p>
 
 
-<h2>Data Exfiltration</h2>
+<h2>Real-Life Scenario: Data Exfiltration</h2>
 
 <img width="1355" height="954" alt="Screenshot from 2026-03-18 19-20-59" src="https://github.com/user-attachments/assets/33aa99bd-4761-4e65-98f7-de5235425f38" />
 
