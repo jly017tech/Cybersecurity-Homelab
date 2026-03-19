@@ -1,6 +1,6 @@
 
 ---
-HuskyTechSupport Enterprise Cybersecurity
+HuskyTechSupport Enterprise Cybersecurity:
 ---
  
 
@@ -26,7 +26,22 @@ HuskyTechSupport Enterprise Cybersecurity
 </ul>
 
 
+<h2>Changing IP Addresses for each virtual machines</h2>
+
 <img width="845" height="703" alt="image" src="https://github.com/user-attachments/assets/c81473d8-baa8-4402-9d4c-ff49352e7418" />
+
+
+<p>
+In my homelab environment, I configured and changed IP addresses for each virtual machine to ensure proper network organization 
+and communication between systems. I assigned static IP addresses to critical servers such as the domain controller and services 
+like DHCP and DNS to maintain consistency, while allowing other machines to use dynamic addressing where appropriate. 
+This process helped me understand how IP management works in an enterprise setting, including subnetting, avoiding IP conflicts, 
+and ensuring reliable connectivity between systems. I also verified configurations using network troubleshooting tools and 
+tested connectivity between virtual machines to confirm everything was properly set up.
+</p>
+
+
+<br>
 
 
 <h2>Step 1: Setting up Windows Server 2025 and Windows 11 Enterprise</h2>
