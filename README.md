@@ -10,19 +10,21 @@ HuskyTechSupport Enterprise Cybersecurity
 
 <br>
 
+<h1>Prerequisite </h1>
+
+<hr>
 
 <h2>List of virtual machines</h2>
 <ul>
-    <li>[project-x-dc]: Windows Server 2025</li>
-    <li>[project-x-win-client]: Windows 11 Enterprise</li>
-    <li>[project-x-linux-client]: Ubuntu Desktop</li>
-    <li>[project-x-sec-work]: Security Onion</li>
-    <li>[project-x-sec-box]: Ubuntu Desktop</li>
-    <li>[project-x-corp-svr]: Ubuntu Server</li>
-    <li>[project-x-attacker]: Kali Linux</li>
+    <li>Windows Server 2025</li>
+    <li>Windows 11 Enterprise</li>
+    <li> Ubuntu Desktop</li>
+    <li> Security Onion</li>
+    <li>Ubuntu Desktop</li>
+    <li> Ubuntu Server</li>
+    <li>Kali Linux</li>
 </ul>
 
-<h1>Prerequisite </h1>
 
 <img width="845" height="703" alt="image" src="https://github.com/user-attachments/assets/c81473d8-baa8-4402-9d4c-ff49352e7418" />
 
@@ -68,12 +70,16 @@ HuskyTechSupport Enterprise Cybersecurity
 <h2>Step 4: Installing Linux Onion Security </h2>
 <img width="780" height="782" alt="Screenshot from 2026-02-11 23-23-06" src="https://github.com/user-attachments/assets/6186de8e-6c92-48e8-a9db-0bcc949580ec" />
 
+<p></p>
+
 <br>
 
 
 <h2>Step 5: Setting up Email Server on Ubuntu</h2>
 
 <img width="957" height="835" alt="Screenshot from 2026-02-15 13-59-49" src="https://github.com/user-attachments/assets/cf406585-5ecc-473e-a9e9-65bbcfc457ae" />
+
+<hr>
 
 <p>
 In this step, I set up a functional email server on an Ubuntu system as part of my homelab environment. 
@@ -89,6 +95,8 @@ and gave me hands-on experience with server configuration and troubleshooting.
 <h2>Data Exfiltration</h2>
 
 <img width="1355" height="954" alt="Screenshot from 2026-03-18 19-20-59" src="https://github.com/user-attachments/assets/33aa99bd-4761-4e65-98f7-de5235425f38" />
+
+<hr>
 
 <p>
 Data exfiltration refers to the unauthorized transfer of sensitive information from a system, network, or device. 
