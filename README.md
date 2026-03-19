@@ -4,6 +4,9 @@ HuskyTechSupport Enterprise Cybersecurity:
 ---
  
 
+<img width="731" height="336" alt="image" src="https://github.com/user-attachments/assets/f5619764-8648-48fc-a0ee-fe0918cf3b54" />
+
+
 ## Introduction
 
 <p> I use oracle virtualbox, downloaded 6 ISO files, and change Network adapter to NAT Network. Before I install and create virtual machines, I open Oracle Virtualbox and create Nat Networks name [project-x-NAT], so when this is selected for all the virutal machines will communicate each this IP address, for example, 192.0.0.0 while connecting to the internet.</p>
